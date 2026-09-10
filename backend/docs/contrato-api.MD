@@ -1,6 +1,7 @@
 ## POST /api/solicitudes
 
 Respuesta:Crea una solicitud.
+Pruebaaaa
 
 Entrada JSON: {
     "titulo": "string",
